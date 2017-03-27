@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A2BC-9BCF
+
+ Directory of C:\Users\Neeraj Jaswal\workspace\JenkinsDemo\src\jenkinswithGIT
+
+27-03-2017  22:33    <DIR>          .
+27-03-2017  22:33    <DIR>          ..
+27-03-2017  22:28               483 index.html
+27-03-2017  22:27               692 jenkinsJob.class
+27-03-2017  21:57               433 jenkinsJob.java
+27-03-2017  22:33                 0 redmi.txt
+               4 File(s)          1,608 bytes
+               2 Dir(s)  92,755,161,088 bytes free
